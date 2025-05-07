@@ -1,0 +1,21 @@
+create a folder and write :
+1) npm create vite@latest
+
+2) backend :
+create a folder backend 
+cd backend
+npm init
+
+npm install 
+
+in the backend make index.js file
+npm install nodemon 
+
+goto to package.json and in the script write start = nodemon index.js
+npm install express, mongoose, cors 
+
+write a prompt
+create a full stack mern project and give frontend in app.jsx  and backend in index.js i am using mongodb compass 
+ npm install axios
+
+make and attractive css and give me
